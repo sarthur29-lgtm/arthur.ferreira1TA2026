@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8>
+    <litle>Meu blog de Tecnologia</title.
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+         <h1>Musica pop:O seu impacto no mundo</h1>
+    </header>
+    <nav>
+       <a href="#">Inicio</a>| <a href="#">Sobre</a>
+    </nav>
+    <main>
+       <h2>A Evolucao dos Icones: De Michael Jackson a Taylor Swift</h2>
+       <p>O que faz de alguem um "Rei" ou uma "Rainha" do pop? Nos anos 80 e 90, o topo do mundo era moldado por coreografias milimetricamente ensaiadas, videoclipes que pareciam filmes de cinema e um misterio quase intocavel. Figuras como Michael Jackson e Madonna ditaram as regras do jogo, transformando a musica pop em um espetaculo visual sem precedentes.
+Corta para os dias de hoje: a era dos textoes no Instagram, das teorias de fas no TikTok e dos easter eggs escondidos. Artistas como Taylor Swift e Beyonce mudaram o formato do estrelato. O misterio deu lugar a conexao direta. Hoje, o Icone pop nao e apenas quem canta e danca bem, mas quem sabe contar historias e construir um universo inteiro onde os fas se sentem de casa. O pop mudou, mas a nossa obsessao por ele continua a mesma.
+</p>
+       <h2>Moda Pop: Ditando Tendencias das Ruas as Passarelas</h2>
+       <p>Se voce ja usou uma jaqueta de couro vermelha, uma calca cargo larga ou cobriu o rosto com glitter em um festival, parabens: voce foi influenciado pela musica pop. A relacao entre o pop e a moda e um casamento perfeito que acontece desde sempre. Quando um artista lanca um clipe marcante, ele nao esta apenas lancando uma musica, esta lancando a estetica dos proximos meses.
+Das luvas brilhantes de Michael Jackson aos looks futuristas de Lady Gaga, o pop sempre desafiou as regras do guarda-roupa. Os palcos viraram as verdadeiras passarelas do mundo. Hoje, grandes grifes disputam espaco para vestir artistas em suas turnes porque sabem que, no segundo seguinte a foto ir para o Instagram, milhares de pessoas vao querer copiar o visual. Moda pop e sobre atitude, expressao e, acima de tudo, criatividade sem limites.
+</p>
+       <h2> A Explosao do K-Pop e a Globalizacao da Musica
+</h2>
+       <p>Houve um tempo em que, para fazer sucesso global, uma musica precisava ser cantada em ingles. Esqueca essa regra. A Coreia do Sul chegou e reescreveu o manual do pop ocidental com o fenomeno do K-Pop. Grupos como BTS e BLACKPINK transformaram a industria musical em um tabuleiro verdadeiramente global, arrastando multidoes por todos os continentes cantando em coreano.
+O segredo? Uma mistura cirurgica de producoes musicais impecaveis, coreografias inacreditaveis, visuais conceituais e uma presenca digital massiva. O K-Pop provou que a barreira do idioma nao existe quando o ritmo e a energia conectam as pessoas. Hoje, a musica pop nao tem uma unica capital: ela fala dezenas de linguas e viaja o mundo em segundos pelas redes sociais.
+</P>
+       <h2>A Identidade Visual no Pop: Capas de Album e Eras Marcantes
+</h2>
+       <p>No universo pop, um album nunca e so um conjunto de musicas. E uma "Era". Quando um artista decide lancar um projeto novo, tudo muda: o cabelo, as cores das redes sociais, o estilo das roupas e a estetica dos clipes. E como se eles resetassem a propria identidade para contar uma nova historia, e a capa do album funciona como o portal de entrada para esse novo mundo.
+Pense no rosa marcante de Barbie, na estetica country-futurista de Cowboy Carter da Beyonce ou nos tons sombrios de Reputation da Taylor Swift. Essa consistencia visual ajuda o publico a "vestir a camisa" do projeto. Para quem esta criando um blog, entender o conceito de "eras" e o melhor exemplo de como o branding e o design conversam diretamente com a emocao das pessoas.
+</P>
+       <img src="Firefly_Gemini Flash (1).png" 
+       <img src="Firefly_Gemini Flash.png"
+       <img src="Firefly_Gemini Flash_crie imagens relacionadas a musica pop com um estilo dos anos 2000 com disco 857006.png
+        alt="Minha imagem">
+     <footer>
+        <p>Arthur Ferreira da Silva.</p>
+     </footer>
+
+    </main>
+</body>
+</html>
