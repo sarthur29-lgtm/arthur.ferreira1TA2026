@@ -23,9 +23,9 @@
   css
 
   main img {
-    width: 30%;
+    width: 25%;
     max-width: 200px;
     height: auto;
     display: block;
-    margin: 10px auto;
+    margin: 20px auto;
  }
