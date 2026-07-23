@@ -21,11 +21,10 @@
     padding: 10px;
  }
   css
-
   main img {
-    width: 10%;
-    max-width: 50px;
+    width: 40%;
+    max-width: 300px;
     height: auto;
     display: block;
-    margin: 15px auto;
+    margin: 25px auto;
  }
